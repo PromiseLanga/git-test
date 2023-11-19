@@ -1,0 +1,17 @@
+[33mcommit d8e00cd465e45334b63f87c89e12fc58c5ead832[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: promiselanga <promise.jasmine110@github.com>
+Date:   Sun Nov 19 09:25:55 2023 +0200
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 3f6fcc3a51128d5fa8ed692bd1e6a7b1771237e7[m
+Author: promiselanga <promise.jasmine110@github.com>
+Date:   Sun Nov 19 09:17:46 2023 +0200
+
+    Add hello_world.txt
+
+[33mcommit 5dfe3fcfe46d116dc3a39c5ab48bcdf264dc8b2c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: promiselanga <112010374+PromiseLanga@users.noreply.github.com>
+Date:   Sat Nov 18 12:43:14 2023 +0200
+
+    Initial commit
